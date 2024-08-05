@@ -1,0 +1,41 @@
+button {
+    padding: 10px 20px;
+    border: 1px solid black;
+  }
+  
+  #app {
+    width: 960px;
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+  
+    padding: 30px;
+  
+    background-color: #F6F6F6;
+  }
+  
+  #todoTitleContainer,
+  #todoInputContainer,
+  #todoListContainer,
+  #todoDeleteAllContainer {
+    width: 100%;
+    margin: 10px 0px;
+  }
+  
+  .todo-row {
+    background-color: #FFFFFF;
+  }
+  
+  #todoInputTxt {
+    width: 600px;
+    padding: 10px 20px;
+  }
+  
+  .todo-list-item {
+    width: 600px;
+    padding: 10px 20px;
+  }
+  
+  .todo-remove-btn {
+    width: 52px;
+  }
